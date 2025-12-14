@@ -1,6 +1,10 @@
 # 5 Rules
 5 rules for building outstanding, fast-growing software companies
 
+> Full article: [post.md](post.md)
+>
+> The content below is a concise summary of the 5 Rules. For background and implementation ideas, see the original Medium post as well.
+
 For a detailed discussion of these rules and ideas on putting them into practice, see the [5 Rules](https://medium.com/the-future-started-yesterday/5-rules-44952a65f620) blog post.
 
 ## The Rules
@@ -43,3 +47,6 @@ There are no sacred cows. Regardless of your code, business plan, marketing, or 
     [Just do it!](https://www.youtube.com/watch?v=ZXsQAXx_ao0)
 
 No one is more empowered to solve your problems than yourself. If you are blocked, ask for help; If no one is listening, raise your voice; But if the job isn't getting done, take matters into your own hands. The keyword here is decisiveness, empower your team, and have a bias for action. The same is true of feedback. If you think it is critical to the mission, don't wait for the ask. Give it proactively.
+
+## License
+This repository’s content is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0). See [LICENSE](LICENSE) for the full legal text.
