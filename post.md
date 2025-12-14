@@ -92,7 +92,9 @@ To counter this, you must seek out and telegraph loudly to everyone you work wit
 
 
 [![Just do it](just-do-it.webp)](https://www.youtube.com/watch?v=ZXsQAXx_ao0)
+
 [https://www.youtube.com/watch?v=ZXsQAXx_ao0](https://www.youtube.com/watch?v=ZXsQAXx_ao0)
+
 No one is more empowered to solve your problems than yourself. If you are blocked, ask for help; If no one is listening, raise your voice; But if the job isn’t getting done, be ready to take matters into your own hands. The keyword here is decisiveness, no one will ever be upset with you for getting **_something_** done vs. **_nothing_**, in particular, if you are working at a startup.
 
 As your organization grows, you need everyone to embrace the notion that they are fully empowered to do whatever they see fit to get the job done. The agile development tenant would be valuing working solutions over comprehensive documentation, but this concept isn’t limited to engineering. Whatever your team's focus, don’t wait. **_Just do it_**.
