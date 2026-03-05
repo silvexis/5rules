@@ -1,7 +1,14 @@
-# 5 Rules
+# 5 Rules — ARCHIVED
+
+> **This project has been superseded.** The "5 Rules" have evolved into simply **the Rules**. For the latest version, please visit:
+>
+> **[github.com/silvexis/rules](https://github.com/silvexis/rules)**
+
+---
+
 5 rules for building outstanding, fast-growing software companies
 
-The content below is a concise summary of the 5 Rules. For a detailed discussion of these rules and ideas on putting them into practice, see the [full text](post.md) or the [5 Rules](https://medium.com/the-future-started-yesterday/5-rules-44952a65f620) Medium article.
+The content below is preserved for historical reference. For a detailed discussion of these rules and ideas on putting them into practice, see the [full text](post.md) or the [5 Rules](https://medium.com/the-future-started-yesterday/5-rules-44952a65f620) Medium article.
 
 ## The Rules
 - Delight the customer
